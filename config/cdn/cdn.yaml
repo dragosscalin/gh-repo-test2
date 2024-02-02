@@ -1,0 +1,10 @@
+kind: CDN
+version: v1
+metadata:
+  envType: dev
+data:
+  trafficFilters:
+    rules:
+      - name: path-rule
+        when: { reqProperty: path, equals: /block-me }
+        action: block

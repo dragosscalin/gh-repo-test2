@@ -17,7 +17,7 @@
 
 .cmp-navigation--header {
     min-width: 100px;
-    
+
     @media (min-width: ($screen-medium + 1)) and (max-width: $screen-large) {
         width: 60% !important;
     }
@@ -25,7 +25,7 @@
     .cmp-navigation {
         float: right;
     }
-    
+
     /* only highlight level 1 */
     .cmp-navigation__item--level-1.cmp-navigation__item--active .cmp-navigation__item-link {
         background-color: $brand-primary;
@@ -37,6 +37,6 @@
         .cmp-navigation {
             display: none !important;
         }
-        
+
     }
 }

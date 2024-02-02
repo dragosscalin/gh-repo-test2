@@ -1,0 +1,8 @@
+{
+  "name": "simple-theme",
+  "version": "1.0.0",
+  "description": "Test",
+  "scripts": {
+    "build": "rm -rf dist && mkdir dist && echo 'Testing' > dist/out.js"
+  }
+}

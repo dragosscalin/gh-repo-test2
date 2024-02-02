@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/theme.scss"],"sourcesContent":["body {\n  background-color: black;\n  color: white; // Optionally, set text color to white for better visibility\n}\n"],"names":[],"version":3,"file":"theme.css.map","sourceRoot":"../"}
