@@ -47,4 +47,3 @@ data:
           groupBy:
             - reqProperty: clientIp
         action: block
-        # random comment
