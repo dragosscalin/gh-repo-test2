@@ -1,7 +1,7 @@
 kind: "CDN"
 version: "1"
 metadata:
-  envTypes: ["dev"]
+  envTypes: ["dev"] 
 data:
   trafficFilters:
     rules:
